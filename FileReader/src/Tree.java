@@ -1,10 +1,4 @@
-/*
- * Ian Kaufman
- * 115639955
- * ian.kaufman@stonybrook.edu
- * Homework 4
- * CSE214.R30
- */
+
 /**
  * Represents a tree with a root node and methods to manipulate and traverse the tree.
  */
