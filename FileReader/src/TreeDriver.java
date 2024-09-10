@@ -1,10 +1,4 @@
-/*
- * Ian Kaufman
- * 115639955
- * ian.kaufman@stonybrook.edu
- * Homework 4
- * CSE214.R30
- */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
